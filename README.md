@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauriOvhal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GauriOvhal/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -14,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GauriOvhal/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/GauriOvhal/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
