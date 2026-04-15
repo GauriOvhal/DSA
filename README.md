@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GauriOvhal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/GauriOvhal/DSA/tree/master/0238-product-of-array-except-self) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GauriOvhal/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GauriOvhal/DSA/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GauriOvhal/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 <!---LeetCode Topics End-->
