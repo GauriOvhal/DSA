@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GauriOvhal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/GauriOvhal/DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/GauriOvhal/DSA/tree/master/0283-move-zeroes) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GauriOvhal/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/GauriOvhal/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Dynamic Programming
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3488-closest-equal-element-queries](https://github.com/GauriOvhal/DSA/tree/master/3488-closest-equal-element-queries) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/GauriOvhal/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
