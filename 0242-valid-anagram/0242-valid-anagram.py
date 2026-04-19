@@ -14,14 +14,14 @@ class Solution(object):
             else:
                 c1[ch] = 1
         
-            
-        for ch in t1:
-            if ch not in c1:
-                return False
-            if ch in c1:
-                c1[ch] -= 1
+        c2 = {}
+        for ch2 in t1:
+            if ch2 in c2:
+                c2[ch2] += 1
             else:
-                c1[ch] = 1
+                c2[ch2] = 1
         
-        result = all(v == 0 for v in c1.values())
-        return result
+        if c1 == c2:
+            return True
+        else:
+            return False
