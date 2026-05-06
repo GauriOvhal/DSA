@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GauriOvhal/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GauriOvhal/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/GauriOvhal/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Dynamic Programming
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/GauriOvhal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GauriOvhal/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 | [3488-closest-equal-element-queries](https://github.com/GauriOvhal/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GauriOvhal/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GauriOvhal/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/GauriOvhal/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/GauriOvhal/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GauriOvhal/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Divide and Conquer
 |  |
@@ -87,16 +91,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
