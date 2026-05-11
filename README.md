@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GauriOvhal/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/GauriOvhal/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/GauriOvhal/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/GauriOvhal/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GauriOvhal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GauriOvhal/DSA/tree/master/0242-valid-anagram) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/GauriOvhal/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/GauriOvhal/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/GauriOvhal/DSA/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/GauriOvhal/DSA/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/GauriOvhal/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/GauriOvhal/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
