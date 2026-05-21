@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GauriOvhal/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/GauriOvhal/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GauriOvhal/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GauriOvhal/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/GauriOvhal/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 | [2540-minimum-common-value](https://github.com/GauriOvhal/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GauriOvhal/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GauriOvhal/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/GauriOvhal/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/GauriOvhal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GauriOvhal/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GauriOvhal/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GauriOvhal/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union-Find
 |  |
 | ------- |
