@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GauriOvhal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/GauriOvhal/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GauriOvhal/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/GauriOvhal/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GauriOvhal/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
