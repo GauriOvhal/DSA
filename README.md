@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GauriOvhal/DSA/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/GauriOvhal/DSA/tree/master/0029-divide-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/GauriOvhal/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/GauriOvhal/DSA/tree/master/0136-single-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GauriOvhal/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
