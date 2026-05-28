@@ -12,7 +12,7 @@ class Solution(object):
         return count
 
     def decToBinary(self , n):
-        if n == "0":
+        if n == 0:
             return 0
 
         isNegative = n < 0
