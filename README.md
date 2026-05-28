@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauriOvhal/DSA/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/GauriOvhal/DSA/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/GauriOvhal/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/GauriOvhal/DSA/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/GauriOvhal/DSA/tree/master/0190-reverse-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GauriOvhal/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
