@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/GauriOvhal/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GauriOvhal/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GauriOvhal/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GauriOvhal/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/GauriOvhal/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/GauriOvhal/DSA/tree/master/0029-divide-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2119-a-number-after-a-double-reversal](https://github.com/GauriOvhal/DSA/tree/master/2119-a-number-after-a-double-reversal) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GauriOvhal/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
