@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/GauriOvhal/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/GauriOvhal/DSA/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/GauriOvhal/DSA/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/GauriOvhal/DSA/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2119-a-number-after-a-double-reversal](https://github.com/GauriOvhal/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GauriOvhal/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
