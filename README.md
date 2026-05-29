@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauriOvhal/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauriOvhal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/GauriOvhal/DSA/tree/master/0264-ugly-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GauriOvhal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GauriOvhal/DSA/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/GauriOvhal/DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/GauriOvhal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -136,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/GauriOvhal/DSA/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/GauriOvhal/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/GauriOvhal/DSA/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/GauriOvhal/DSA/tree/master/0264-ugly-number-ii) |
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2119-a-number-after-a-double-reversal](https://github.com/GauriOvhal/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GauriOvhal/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/GauriOvhal/DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GauriOvhal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/GauriOvhal/DSA/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
