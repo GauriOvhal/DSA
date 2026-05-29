@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GauriOvhal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GauriOvhal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GauriOvhal/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/GauriOvhal/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GauriOvhal/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GauriOvhal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GauriOvhal/DSA/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/GauriOvhal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/GauriOvhal/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GauriOvhal/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/GauriOvhal/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/GauriOvhal/DSA/tree/master/0283-move-zeroes) |
 | [2540-minimum-common-value](https://github.com/GauriOvhal/DSA/tree/master/2540-minimum-common-value) |
 ## Math
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GauriOvhal/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GauriOvhal/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/GauriOvhal/DSA/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/GauriOvhal/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/GauriOvhal/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2119-a-number-after-a-double-reversal](https://github.com/GauriOvhal/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GauriOvhal/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
